@@ -4,7 +4,7 @@ on:
   workflow_dispatch:      
   
 env:
-  CONTAINER_REGISTRY: handson01repo0303112.azurecr.io # Azure Container Registry のドメイン
+  CONTAINER_REGISTRY: handson01cicdr35m44melqpxc.azurecr.io # Azure Container Registry のドメイン
   
 jobs:
   build:
