@@ -7,7 +7,7 @@ env:
   CONTAINER_REGISTRY: handson01cicdr35m44melqpxc.azurecr.io # Azure Container Registry のドメイン
   RESOURCE_GROUP_NAME: Handson01-CICD
   CONTAINERAPP_NAME: ctapp-demo-ui
-  API_BASE_URL: https://ctapp-demo-ui.agreeablerock-46b2cc41.japaneast.azurecontainerapps.io
+  API_BASE_URL: https://ctapp-demo-api.agreeablerock-46b2cc41.japaneast.azurecontainerapps.io
 
 jobs:
   build:
